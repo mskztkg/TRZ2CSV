@@ -11,7 +11,7 @@ Usage:
   `python trz2csv.py -l multiple_file_list.txt`
     -> output is marged single csv file named `multiple_file_list.csv`
     
-  input `multiple_list.txt` must be:  
+  input `multiple_list.txt` looks like:  
 
     ```
     single_file01.trz
