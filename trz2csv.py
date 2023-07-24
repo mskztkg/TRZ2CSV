@@ -249,7 +249,7 @@ Usage:
     -> output is converted csv file named single_file.csv
     
   python trz2csv.py -l multiple_file_list.txt
-    -> output is marged single csv file named multiple_file_list.txt
+    -> output is marged single csv file named multiple_file_list.csv
     
     input multiple_list.txt must be:
 
