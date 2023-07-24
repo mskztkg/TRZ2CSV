@@ -13,13 +13,13 @@ Usage:
     
   input `multiple_list.txt` must be:  
 
-    ```
+    `
     single_file01.trz
     single_file02.trz
     single_file03.trz
     single_file04.trz
     ......
-    ```
+    `
     
   You can change output file name by `-o` option:  
     `python trz2csv.py -f single_file.trz -o output.csv`
